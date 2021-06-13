@@ -1,0 +1,16 @@
+Button {
+    -fx-background-color: black;
+    -fx-text-fill: yellow;
+}
+
+Button:hover {
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+}
+
+.heading {
+    -fx-font-size: 32px;
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+    -fx-fill: blue;
+}
